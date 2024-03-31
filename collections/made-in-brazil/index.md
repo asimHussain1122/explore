@@ -21,7 +21,14 @@ items:
   - alt-art/commit
   - backend-br/desafios
   - backend-br/vagas
-  - githubpresente/octogatosconf22
+  - gittogethers/octogatosconf22
+  - github/brasil
+  - raphamorim/rio
+  - avelino/awesome-go
+  - okfn-brasil/querido-diario
+  - Purple-Stock/open-erp
+  - thiagobarbosa/quorum-api
+  - pgmodeler/pgmodeler
   
 display_name: Made in Brazil
 created_by: caarlos0

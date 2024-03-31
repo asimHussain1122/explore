@@ -9,7 +9,7 @@ items:
  - holistics/dbml
  - google/edward2
  - vncorenlp/VnCoreNLP
- - google/tink
+ - tink-crypto/tink
  - blei-lab/edward
  - ZuzooVn/machine-learning-for-software-engineers
  - chiphuyen/ml-interviews-book
@@ -21,7 +21,7 @@ items:
  - vanhuyz/CycleGAN-TensorFlow
  - TablePlus/TablePlus
  - khangich/machine-learning-interview
- - huytd/agar.io-clone
+ - owenashurst/agar.io-clone
  - opencardev/crankshaft
  - binhnguyennus/awesome-scalability
  - hoanhan101/ultimate-go
